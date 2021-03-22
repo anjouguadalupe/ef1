@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\Samurai.UI\\Samurai.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\Samurai.Data\\Samurai.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\Samurai.Data\\Samurai.Data.csproj",
+        "projectName": "Samurai.Data",
+        "projectPath": "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\Samurai.Data\\Samurai.Data.csproj",
+        "packagesPath": "C:\\Users\\aguada01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\Samurai.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aguada01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\Samurai.UI\\Samurai.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\Samurai.UI\\Samurai.UI.csproj",
+        "projectName": "Samurai.UI",
+        "projectPath": "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\Samurai.UI\\Samurai.UI.csproj",
+        "packagesPath": "C:\\Users\\aguada01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\Samurai.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aguada01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\Samurai.Data\\Samurai.Data.csproj": {
+                "projectPath": "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\Samurai.Data\\Samurai.Data.csproj"
+              },
+              "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+        "projectName": "SamuraiApp.Domain",
+        "projectPath": "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\aguada01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aguada01\\source\\repos\\SamuraiApp\\SamuraiApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aguada01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

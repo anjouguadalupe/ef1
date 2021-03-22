@@ -1,0 +1,15 @@
+C:\Users\aguada01\source\repos\SamuraiApp\Samurai.Data\obj\Debug\net5.0\Samurai.Data.csprojAssemblyReference.cache
+C:\Users\aguada01\source\repos\SamuraiApp\Samurai.Data\obj\Debug\net5.0\Samurai.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguada01\source\repos\SamuraiApp\Samurai.Data\obj\Debug\net5.0\Samurai.Data.AssemblyInfoInputs.cache
+C:\Users\aguada01\source\repos\SamuraiApp\Samurai.Data\obj\Debug\net5.0\Samurai.Data.AssemblyInfo.cs
+C:\Users\aguada01\source\repos\SamuraiApp\Samurai.Data\obj\Debug\net5.0\Samurai.Data.csproj.CoreCompileInputs.cache
+C:\Users\aguada01\source\repos\SamuraiApp\Samurai.Data\bin\Debug\net5.0\Samurai.Data.deps.json
+C:\Users\aguada01\source\repos\SamuraiApp\Samurai.Data\bin\Debug\net5.0\Samurai.Data.dll
+C:\Users\aguada01\source\repos\SamuraiApp\Samurai.Data\bin\Debug\net5.0\ref\Samurai.Data.dll
+C:\Users\aguada01\source\repos\SamuraiApp\Samurai.Data\bin\Debug\net5.0\Samurai.Data.pdb
+C:\Users\aguada01\source\repos\SamuraiApp\Samurai.Data\bin\Debug\net5.0\SamuraiApp.Domain.dll
+C:\Users\aguada01\source\repos\SamuraiApp\Samurai.Data\bin\Debug\net5.0\SamuraiApp.Domain.pdb
+C:\Users\aguada01\source\repos\SamuraiApp\Samurai.Data\obj\Debug\net5.0\Samurai.Data.csproj.CopyComplete
+C:\Users\aguada01\source\repos\SamuraiApp\Samurai.Data\obj\Debug\net5.0\Samurai.Data.dll
+C:\Users\aguada01\source\repos\SamuraiApp\Samurai.Data\obj\Debug\net5.0\ref\Samurai.Data.dll
+C:\Users\aguada01\source\repos\SamuraiApp\Samurai.Data\obj\Debug\net5.0\Samurai.Data.pdb
